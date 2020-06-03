@@ -1,17 +1,23 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: My portfolio
+description: Francesco Loi portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Francesco Loi
+user_description: I am a software developer with 5 years experience working in technology. I have primarily worked on embedded systems but during my career I have used a broad range of technologies: C#, Python, Qt, Android, C++. 
+
+I enjoy being part of interesting projects. Always interested in following good software construction principles, trying to transform anything in an automated job and keeping clean code.
+
+Being part of large scale realities lead me to an increasingly interest in DevOps
+
+I have worked in large scale companies as consultant and as developer for some company's turn-key projects. 
+
+I am currently working as Embedded developer into the automotive industry for a Telematic ECU.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: francesco.loi@outlook.it
+github_username:  QuiGonRazor
 
 # Google-analytics
 google-analytics:
